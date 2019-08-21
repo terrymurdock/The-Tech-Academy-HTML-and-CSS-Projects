@@ -1,0 +1,14 @@
+C:\Users\terrytown\Documents\GitHub\HTML-and-CSS-Projects\Visual Studio\MyWebsite\bin\Debug\netcoreapp2.1\MyWebsite.deps.json
+C:\Users\terrytown\Documents\GitHub\HTML-and-CSS-Projects\Visual Studio\MyWebsite\bin\Debug\netcoreapp2.1\MyWebsite.runtimeconfig.json
+C:\Users\terrytown\Documents\GitHub\HTML-and-CSS-Projects\Visual Studio\MyWebsite\bin\Debug\netcoreapp2.1\MyWebsite.runtimeconfig.dev.json
+C:\Users\terrytown\Documents\GitHub\HTML-and-CSS-Projects\Visual Studio\MyWebsite\bin\Debug\netcoreapp2.1\MyWebsite.dll
+C:\Users\terrytown\Documents\GitHub\HTML-and-CSS-Projects\Visual Studio\MyWebsite\bin\Debug\netcoreapp2.1\MyWebsite.pdb
+C:\Users\terrytown\Documents\GitHub\HTML-and-CSS-Projects\Visual Studio\MyWebsite\obj\Debug\netcoreapp2.1\MyWebsite.csprojAssemblyReference.cache
+C:\Users\terrytown\Documents\GitHub\HTML-and-CSS-Projects\Visual Studio\MyWebsite\obj\Debug\netcoreapp2.1\MyWebsite.csproj.CoreCompileInputs.cache
+C:\Users\terrytown\Documents\GitHub\HTML-and-CSS-Projects\Visual Studio\MyWebsite\obj\Debug\netcoreapp2.1\MyWebsite.RazorAssemblyInfo.cache
+C:\Users\terrytown\Documents\GitHub\HTML-and-CSS-Projects\Visual Studio\MyWebsite\obj\Debug\netcoreapp2.1\MyWebsite.RazorAssemblyInfo.cs
+C:\Users\terrytown\Documents\GitHub\HTML-and-CSS-Projects\Visual Studio\MyWebsite\obj\Debug\netcoreapp2.1\MyWebsite.AssemblyInfoInputs.cache
+C:\Users\terrytown\Documents\GitHub\HTML-and-CSS-Projects\Visual Studio\MyWebsite\obj\Debug\netcoreapp2.1\MyWebsite.AssemblyInfo.cs
+C:\Users\terrytown\Documents\GitHub\HTML-and-CSS-Projects\Visual Studio\MyWebsite\obj\Debug\netcoreapp2.1\MyWebsite.RazorTargetAssemblyInfo.cache
+C:\Users\terrytown\Documents\GitHub\HTML-and-CSS-Projects\Visual Studio\MyWebsite\obj\Debug\netcoreapp2.1\MyWebsite.dll
+C:\Users\terrytown\Documents\GitHub\HTML-and-CSS-Projects\Visual Studio\MyWebsite\obj\Debug\netcoreapp2.1\MyWebsite.pdb

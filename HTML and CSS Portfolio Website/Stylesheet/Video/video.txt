@@ -1,0 +1,26 @@
+Mainframe
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tgqwtRxZBWA?start=7" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Flying binary
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zGnpT8okBs0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Typing laptop
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZCiUkYDWK8?start=7" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Computer code
+<iframe width="560" height="315" src="https://www.youtube.com/embed/trvBH595CYg?start=7" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Binary code
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1_IqAfVtfyk?start=7" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Network
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RzkZ_YElryQ?start=7" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Colorful code
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-XkRJnHpTI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Binary green
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X0OCLjySpGY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Programming code
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kmvyjeaMEjc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

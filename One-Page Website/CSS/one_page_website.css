@@ -1,0 +1,14 @@
+html {
+    font-family: 'Garamond', 'Franklin Gothic Medium', Arial, sans-serif;
+    font-size: 16px;
+}
+
+/*================================================================
+    CONTACT SECTION
+================================================================*/
+input {
+    width: 300px;
+    margin: 10px;
+    border: 2px solid #DF5327;
+    border-radius: 0;
+}

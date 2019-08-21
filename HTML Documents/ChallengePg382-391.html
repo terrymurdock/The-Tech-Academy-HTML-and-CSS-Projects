@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Challenges Pages 382-391</title>
+        <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1">
+    </head>
+
+    <style>
+        body {
+            margin: 0;
+        }
+        /* Pg 382, 1. Center image */
+        .html-center {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 50%;
+        }
+        /* Pg 382, 2. Img filter */
+        .css-filter {
+            filter: saturate(400%);
+        }
+        /* Pg 382, 3. Img round edges */
+        .css-round {
+            border-radius: 10px;
+        }
+        /* Pg 383, 1-2. Footer a. center b. bold */
+        .css-text-align-bold {
+            text-align: center;
+            font-weight: bold;
+        }
+        /* Pg 384, 1-2. Table a. border b. padding c. background color top row */
+        table, td, th {
+            border: 1px solid #f10;
+        }
+        td {
+            padding: 8px;
+        }
+        th {
+            background-color: red;
+        }
+        /* Pg 385, Text over img */
+        .container {
+            position: relative;
+            color: white;
+        }
+        .bottom-left {
+            position: absolute;
+            bottom: 10px;
+            left: 10px;
+        }
+        /* Pg 386, 1. Fixed navbar, 2. a. background color b. font color c. hover effect */
+        .navbar {
+            overflow: hidden;
+            background-color: #f10;
+            position: fixed;
+            top: 0;
+            width: 100%;
+            z-index: 100;
+        }
+        .navbar a {
+            float: left;
+            display: block;
+            color: #fff;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+            font-size: 15px;
+        }
+        .navbar a:hover {
+            background: #eee;
+            color: black;
+        }
+        main {
+            padding: 16px;
+            margin-top: 30px;
+            height: auto;
+        }
+        /* Pg 387, 1. Two columns, 2. a. Font color b. Height Width */
+        * {
+            box-sizing: border-box;
+        }
+        .column_1, .column_2 {
+            float: left;
+            width: 50%;
+            padding: 10px;
+            height: 250px;
+        }
+        .column_1 {
+            color: #f10;
+            background-color: #ddd;
+        }
+        .column_2 {
+            color: blue;
+            background-color: #eee;
+        }
+        .row::after {
+            content: "";
+            display: table;
+            clear: both;
+        }
+        /* Pg 388, Hover effect */
+        p:hover {
+            color: blue;
+            font-size: 200%;
+        }
+        /* Pg 389, Img overlay fade */
+        .container-fade {
+            position: relative;
+            widows: 50%;
+        }
+        .img-fade {
+            position: relative;
+            width: 50%;
+            height: auto;
+        }
+        .overlay {
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            height: 100%;
+            width: 50%;
+            opacity: 0;
+            transition: .5s ease;
+            background-color: rgb(177, 177, 230);
+        }
+        .container-fade:hover .overlay {
+            opacity: 1;
+        }
+        .text {
+            color: white;
+            font-size: 22px;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            -webkit-transform: translate(-50%, -50%);
+            -ms-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%);
+            text-align: center;
+        }
+
+    </style>
+
+    <body>
+
+        <div class="navbar">
+            <a href="#home">Home</a>
+            <a href="#about">About</a>
+            <a href="#contact">Contact</a>
+        </div>
+
+        <main>
+
+            <h3>Page 382, 1. HTML center</h3>
+            <img class="html-center" src="./img/1_Stonington_Harbor_Light.png" alt="Stonington Harbor Light">
+            <h3>Page 382, 2. CSS filter</h3>
+            <img class="css-filter" src="./img/1_Stonington_Harbor_Light.png" alt="Stonington Harbor Light">
+            <h3>Page 382, 3. CSS rounded edges</h3>
+            <img class="css-round" src="./img/1_Stonington_Harbor_Light.png" alt="Stonington Harbor Light">
+
+            <h3>Challenge Page 384: 1. HTML table 2. CSS border, padding, top row background color</h3>
+            <table>
+                <th>Lighthouse Location</th>
+                <th>Lighthouse Fact</th>
+                <th>Started Service</th>
+                <tr>
+                    <td>Boston on Little Brewster Island</td>
+                    <td>THE FIRST LIGHTHOUSE IN AMERICA</td>
+                    <td>1716 (rebuilt 1784)</td>
+                </tr>
+                <tr>
+                    <td>Sandy Hook, NJ</td>
+                    <td>THE OLDEST EXISTING LIGHTHOUSE IN AMERICA (never rebuilt)</td>
+                    <td>1764</td>
+                </tr>
+                <tr>
+                    <td>Montauk Point, NY</td>
+                    <td>FIRST LIGHTHOUSE BUILT COMPLETELY BY THE FEDERAL GOVERNMENT</td>
+                    <td>1797</td>
+                </tr>
+            </table>
+
+            <div class="container">
+                <h3>Page 385, Text over image</h3>
+                <img src="./img/1_Stonington_Harbor_Light.png" alt="Stonington Harbor Light">
+                <div class="bottom-left">Stonington Harbor Light, CT</div>
+            </div>
+
+            <h3>Page 387, 1. Two columns, 2. a. Font color b. Height & Width</h3>
+            <div class="row">
+                <div class="column_1">
+                    <h2>East Coast</h2>
+                </div>
+                <div class="column_2">
+                    <h2>West Coast</h2>
+                </div>
+            </div>
+             
+            <h3>Page 388, Hover effect</h3>
+            <p>Hover over me to see what happens!</p>
+
+            <h3>Page 389, Img overlay fade</h3>
+            <div class="container-fade">
+                <img class="img-fade" src="./img/1_Stonington_Harbor_Light.png" alt="Stonington Harbor Light">
+                <div class="overlay">
+                    <div class="text">Stonington Harbor Light, CT</div>
+                </div>
+            </div>
+
+            <h3>Page 390, Video autoplay muted loop</h3>
+            <video width="500" autoplay muted loop><source src="./media/lighthouse.mp4" type="video/mp4">
+            Your browser does not support this video.
+            </video>
+
+            <div class="container">
+                <h3>Page 391, Text over video</h3>
+                <video width="500" autoplay muted loop><source src="./media/lighthouse.mp4" type="video/mp4">
+                    Your browser does not support this video.
+                </video>
+                <div class="bottom-left">Beautiful Lighthouses</div>
+            </div>
+
+        </main>
+      
+    </body>
+
+    <footer class="css-text-align-bold">
+        <h5>Page 383, 1. HTML footer, 2. a. center, b. bold</h5>
+        <h5>Completed by: Terry Murdock</h5>
+    </footer>
+</html>
